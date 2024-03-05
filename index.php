@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" href="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png" type="image/x-icon">
+    <link rel="icon" href="" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <title>Submit form data with AJAX - Coding Birds Online</title>
+    <title>Submit form data with AJAX - Zangtics</title>
     <style> .alert-successs{background-color: #1eaf59;color: white;display: none}
             .required{color: #FF0000;}
             .error-message{font-size: 12px;color: red;display: none;}
@@ -20,7 +20,7 @@
             <div class="card card-signin my-5">
                 <div class="card-body">
                     <center>
-                        <img width="50 " src="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png">
+                        <img width="50 " src="https://zangticsdigital.com/storage/web-logo-rr-1.png">
                     </center>
                     <h5 class="card-title text-center">Submit form data with AJAX</h5>
                     <div class="alert alert-successs" id="successMessage">Form data is saved !</div>
